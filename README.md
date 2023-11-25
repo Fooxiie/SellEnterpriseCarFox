@@ -8,3 +8,7 @@ Discord : [https://discord.gg/VCRKu6uFf5](https://discord.gg/u3XuSFQDNh)
 
 # Installation
  Copy the .dll file in your plugins folder. A this moment stop and restart your server and it's done.
+
+# Command
+
+/sellCar : to sell the car next to you to the person next to you
